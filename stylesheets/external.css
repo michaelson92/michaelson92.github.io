@@ -1,0 +1,24 @@
+h1{color:#f44336; text-align: center;font-family:cursive,"Courier New",/* or*/ Helvitica,/*or*/arial,Verdana, "Comic Sans MS", impact; 
+font-style: normal,italic,oblique; font-variant:small-caps /*or normal*/; font-size: 50px; /*or 120% or medium, larger,smaller;x-small*/ 
+}
+h2{color:blue;  }
+body{
+background: url("images/mike.jpg");background-color:#00fffc29; }
+p{color:#f9f6f6!important;
+ background:rgba(142,149,199,1)!important;
+text-align: justify;
+height: 100px;
+width: 500px;
+}
+h2,{line-height: 50%; }
+span{background-color:yellow; color:blue; 
+width: 75px;
+height: 50px
+}
+
+div{
+	width: 500px;
+	height:100px;
+	background:#00ffff;
+}
+

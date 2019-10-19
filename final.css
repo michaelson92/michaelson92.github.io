@@ -1,0 +1,39 @@
+h1{
+	background-color:#b3b3b3;
+	font-size:150%;
+	font-family:cursive,helvitica,"courier New",;
+	color:#00ffde;
+}
+header{background: #666666;
+text-align:center;}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Times New Roman", serif, Cursive;	 
+}
+h2{
+	color: #666666;
+	background:#00B7EA;
+}
+
+body{background: #b3b3b3;}
+details{font-style: italic;
+
+}
+summary{
+	font-style: normal;
+}
+footer{
+	background: #666666;
+}
+div{
+	text-align: center;
+}
+.centre{
+	display: block; 
+	margin: 0 auto;
+}
+.poster{
+	width: 100%;
+	height: 100%;
+}
